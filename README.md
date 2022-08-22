@@ -1,9 +1,9 @@
 # Global AI Hub AI Summer Camp '22 Project-1
-## Prediction of health insurance billing costs
+## Prediction of health insurance billing costs
 
 I predicted the individual medical costs billed by health insurance using machine learning algorythms.
 
-### Columns
+### Columns
 
 * age: age of primary beneficiary
 * sex: insurance contractor gender, female, male
